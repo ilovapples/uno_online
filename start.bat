@@ -1,1 +1,1 @@
-flask run --host 192.168.0.129 --port 62625
+flask run --host %1 --port %2
